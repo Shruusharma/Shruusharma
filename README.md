@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦢 About Me:
 🔭 I’m currently working on Machine Learning models focused on solving real-world problems.<br><br>👯 I’m looking to collaborate with data professionals and developers on impactful AI/ML projects.<br><br>🤝 I’m looking for help with Generative AI, LLMs, Computer Vision, RAG systems, Prompt Engineering, LangChain, MLOps fundamentals, and ML model deployment.<br><br>🌱 I’m currently learning Data Science, Machine Learning, and Artificial Intelligence with a focus on practical implementation.<br><br>💬 Ask me about Machine Learning fundamentals, Python, AI basics, and GitHub tools.<br><br>⚡ Fun fact: I enjoy pattern recognition, solving complex problems, and organizing ideas into structured systems.<br>
 
 
